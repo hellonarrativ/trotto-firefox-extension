@@ -1,8 +1,8 @@
 
 {
   "manifest_version": 2,
-  "name": "tro.to",
-  "description": "Enable 'go' links for tro.to accounts",
+  "name": "trot.to",
+  "description": "Enable 'go' links for trot.to accounts",
   "version": "0.1",
   "icons": {"128": "icon.png" },
   "browser_action": {
